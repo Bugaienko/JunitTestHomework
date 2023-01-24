@@ -12,13 +12,13 @@ public class ArraysUtils {
             return new int[0];
         }
         int cursor = -1;
-        for (int i = array.length - 1; i >= 0 ; i--) {
+        for (int i = array.length - 1; i >= 0; i--) {
             if (array[i] == 4) {
                 cursor = i;
                 break;
             }
         }
-        System.out.println(cursor + " cursor");
+
         if (cursor == -1) {
             throw new RuntimeException();
         }
@@ -29,5 +29,24 @@ public class ArraysUtils {
 
         return result;
 
+    }
+
+    public boolean checkArraysValues(int[] array) {
+        if (array.length < 2) {
+            return false;
+        }
+        boolean is1Present = false;
+        boolean is4Present = false;
+
+        for (int number : array) {
+            if (number == 1) {
+                is1Present = true;
+            } else if (number == 4) {
+                is4Present = true;
+            } else {
+                return false;
+            }
+        }
+        return (is1Present && is4Present);
     }
 }
