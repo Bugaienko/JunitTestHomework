@@ -1,0 +1,63 @@
+INFO  2023-03-06 20:17:25 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:17:25 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:17:25 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:17:25 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:19:02 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:19:02 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:19:02 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:19:02 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:23:14 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:23:14 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:23:14 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:23:14 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:31:24 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:31:24 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:31:24 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:31:24 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:31:33 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:31:33 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:31:33 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:31:33 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:31:47 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:31:47 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:31:47 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:31:47 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:32:03 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:32:03 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:32:03 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:32:03 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:32:19 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:32:19 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:32:19 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:32:19 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:32:29 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:32:30 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:32:30 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:32:30 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:32:47 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:32:47 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:32:47 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:32:47 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:33:57 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:33:57 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:33:57 [main] lesson32.Lesson32 (Lesson32.java:20) - log warning
+FATAL 2023-03-06 20:33:57 [main] lesson32.Lesson32 (Lesson32.java:21) - log fatal
+INFO  2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+DEBUG 2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:18) - log debug
+DEBUG 2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:19) - debug
+WARN  2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:20) - log warning
+FATAL 2023-03-06 20:34:14 [main] lesson32.Lesson32 (Lesson32.java:21) - log fatal
+INFO  2023-03-06 20:35:09 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:35:09 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:35:09 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:35:09 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:54:31 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:54:31 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+WARN  2023-03-06 20:54:31 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:54:31 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
+INFO  2023-03-06 20:54:58 [main] lesson32.Lesson32 (Lesson32.java:15) - log info: Error in 1 line
+ERROR 2023-03-06 20:54:58 [main] lesson32.Lesson32 (Lesson32.java:16) - log error
+DEBUG 2023-03-06 20:54:58 [main] lesson32.Lesson32 (Lesson32.java:18) - log debug
+WARN  2023-03-06 20:54:58 [main] lesson32.Lesson32 (Lesson32.java:19) - log warning
+FATAL 2023-03-06 20:54:58 [main] lesson32.Lesson32 (Lesson32.java:20) - log fatal
